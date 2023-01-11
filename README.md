@@ -104,7 +104,10 @@ Pastikan kalian sudah install docker, jika belum ikuti tutorial diatas
   ```
 
   > Masukan private key yang tadi disalin
-
+* Download `monitor.sh`
+  ```console
+  wget https://raw.githubusercontent.com/bayy420-999/Tutorial-testnet-Wormholes-node-Airdropfinder/main/monitor.sh
+  ```
 * Cek apakah node sudah sinkron
   ```console
   bash monitor.sh
